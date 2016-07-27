@@ -2,26 +2,26 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://leetesla.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: Doctor Tesla
+subtitle: "the right way"
+description: "Lee personal blog"
+keywords: php, leetesla, mysql, javascript
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/mzlogin/mzlogin.github.io
+source_code: https://github.com/leetesla/leetesla.github.io
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Lee Tesla
 organization: Sogou, Inc.
 organization_url: https://www.sogou.com
-location: Beijing, China
-email: chumpma@gmail.com
+location: Hangzhou, China
+email: leetesla@sina.com
 
 # ---------------- #
 #    Navigation    #
@@ -80,12 +80,12 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: leetesla
+douban_username: leetesla
+facebook_username: leetesla
+weibo_username: leetesla
+zhihu_username: lihao
+twitter_username: leetesla
 
 # ---------------- #
 #      Comments    #
@@ -94,8 +94,8 @@ twitter_username: mzlogin
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
-disqus_username: mzlogin
+duoshuo_username: leetesla
+disqus_username: leetesla
 
 # ---------------- #
 #    Analytics     #
