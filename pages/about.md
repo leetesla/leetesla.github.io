@@ -23,7 +23,7 @@ permalink: /about/
 * 博客：[{{ site.title }}]({{ site.url }})
 * 微博: [@leetesla](http://weibo.com/leetesla)
 * 知乎: [@leetesla](http://www.zhihu.com/people/leetesla)
-* 豆瓣: [@tesla](https://www.douban.com/people/146862149/)
+* 豆瓣: [@tesla](https://www.douban.com/people/leetesla/)
 
 ## Skill Keywords
 
